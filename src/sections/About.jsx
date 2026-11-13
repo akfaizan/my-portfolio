@@ -83,10 +83,10 @@ const About = () => {
           About Me
         </h3>
         <p className="text-[#ffffff] leading-relaxed text-base sm:text-lg">
-          I'm a Software Developer, Content Creator, and Web Developer - passionate about building fast, resilient applications and sharing coding insights on Instagram and YouTube.
+          Passionate full-stack developer focused on building modern, responsive web applications using React, Node.js, and MongoDB. 
         </p>
         <p className="mt-4 text-[#ffffff] text-base sm:text-lg">
-          I love turning ideas into scalable, user-friendly products that make an impact.
+          I enjoy solving problems through DSA in C++, exploring new technologies, and continuously improving my development skills.
         </p>
       </motion.div>
 
