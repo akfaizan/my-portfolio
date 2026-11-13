@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+:root {
+    color-scheme: dark;
+    --color-ink: #000000;
+    --color-surface: #3D0000;
+    --color-primary: #950101;
+    --color-accent-bright: #FF0000;
+    --color-highlight: #ffffff;
+    --color-copy: #ffffff;
+}
+
+html {
+    scroll-behavior: smooth;
+    background: var(--color-ink);
+}
+
+body{
+    font-family:"poppins" , sans-serif;
+    margin: 0;
+    min-width: 320px;
+    min-height: 100vh;
+    background: var(--color-ink);
+}
+
+h1,h2{
+    font-family:"roboto",sans-serif;
+}
+
+@layer utilities{
+    .gradient{
+        min-height: 100vh;
+        background: var(--color-ink);
+    }
+}
