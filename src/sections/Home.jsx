@@ -168,7 +168,7 @@ const Home = () => {
         />
         <motion.img 
           src={avator} 
-          alt="Gaurav Gupta"
+          alt="Faizan Akhtar"
           className="absolute top-1/2 -translate-y-1/2 object-contain select-none pointer-events-none"
           style={{
             right: "-30px", 
